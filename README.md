@@ -53,8 +53,8 @@
          `dpR-  .+pWY?TUWbbbbbpWUY!   7"=!
           (WpbbppWY!      _!!!`
             -??!`
-<hr/>
-<h2>学習してるもの<h2>
+
+<h2>学習してるもの</h2>
 <div>
   <img  alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img  alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -70,17 +70,15 @@
  <img  alt="php" src="https://img.shields.io/badge/php-%23CFCCFF?style=for-the-badge&logo=php" />
  <img  alt="go" src="https://img.shields.io/badge/Go-%236ED3D8?style=for-the-badge&logo=go&logoColor=%2300ADD8" />
 </div>
-<br />
-<hr />
- <b align="center">Githubでの活動</b>
-<p align="center">
- <img  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJtdWd3MWRhZnN2MDV6c3ZxYTFja3BkaHA3a2hsZGNmeDY2a3NiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26vUNhQzmhMtArwC4/giphy.gif" width="50%" alt="Git active"/>
-</p>
 
-<div>
-<p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gen320&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="thenuka" width="40%" />
-</p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Gen320&show_icons=true&locale=en&theme=chartreuse-dark" alt="thenuka" width="50%"/>
-</p>
- </div>
+<br />
+<br /> 
+<br />
+ <h2 align="center">Githubでの活動</h2>
+ <br />
+ <div align="center" >
+ <p><img  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJtdWd3MWRhZnN2MDV6c3ZxYTFja3BkaHA3a2hsZGNmeDY2a3NiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26vUNhQzmhMtArwC4/giphy.gif" width="50%" alt="Git active"/></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gen320&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="thenuka" width="60%" /></p> 
+   
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Gen320&show_icons=true&locale=en&theme=chartreuse-dark" alt="thenuka" width="60%" /></p></div>
