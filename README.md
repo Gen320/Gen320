@@ -4,8 +4,6 @@
 > いろんなことに挑戦!! <br />
 > ~~大の埼玉西武ライオンズ好き~~ <br />
 
-<p><a href="https://x.com/include_pro" ><img alt="x" src="https://img.shields.io/badge/X-%234A4E52?style=for-the-badge&logo=x&logoColor=black" /></a> <span align="top">&nbsp;X(旧Twitter)アカウント</span></p>
-
 
 
                                               ....
