@@ -78,7 +78,4 @@
  <br />
  <div align="center" >
  <p><img  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJtdWd3MWRhZnN2MDV6c3ZxYTFja3BkaHA3a2hsZGNmeDY2a3NiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26vUNhQzmhMtArwC4/giphy.gif" width="50%" alt="Git active"/></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gen320&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="thenuka" width="60%" /></p> 
-   
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Gen320&show_icons=true&locale=en&theme=chartreuse-dark" alt="thenuka" width="60%" /></p></div>
+ </div>
